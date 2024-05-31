@@ -24,5 +24,5 @@ clone this repository and explore the notebooks and markdown files included.
 Each section is designed to be standalone, so you can easily find and learn about specific topics as needed.
 
 
-##**Contributing**
+## **Contributing**
 Contributions are welcome! If you have notes, examples, or improvements to share, please feel free to open an issue or submit a pull request. Let's collaborate to make this repository a valuable resource for the Pandas community.
